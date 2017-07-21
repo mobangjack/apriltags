@@ -1,7 +1,6 @@
 # Prerequisites
 *.d
 build
-cmake
 pod-build
 
 # Compiled Object files
